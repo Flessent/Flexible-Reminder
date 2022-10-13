@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Flex-Reminder</string>
+    <string name="item1">Setting</string>
+    <string name="item2">Color</string>
+    <string name="txt_description">Description </string>
+    <string name="txt_priority">Priority  </string>
+    <string name="txtShowDateAndTime">Date and Time  </string>
+
+    <string name="btnOk">OK </string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnEdit">Edit</string>
+    <string name="txtGiveHour">at </string>
+
+
+    <string name="txt_setVeryImportant">VERY IMPORTANT</string>
+    <string name="txt_setImportant">IMPORTANT</string>
+    <string name="txt_setNotImportant">Not IMPORTANT</string>
+
+    <string name="txt_location">Location </string>
+    <string name="txt_date">Set Date and Time</string>
+    <string name="txt_concernedPersonOrEnterprise">With :</string>
+    <string name="txt_recallTime">Recall me at :</string>
+    <string name="txt_radiobtn1">Very Important</string>
+    <string name="txt_radiobtn2">Important</string>
+    <string name="txt_radiobtn3">Not Important</string>
+    <string name="txt_btnDateTime">Validate</string>
+
+    <string name="hint_concerned">Person or Enterprise</string>
+
+
+</resources>
